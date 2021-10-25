@@ -5,7 +5,7 @@ import Home from './components/Home.vue'
 </script>
 
 <template>
-  <img alt="Vue logo" src="./assets/logo.png" />
+ 
   <Home msg="Hello Vue 3 + Vite" />
 </template>
 
